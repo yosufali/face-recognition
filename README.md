@@ -1,4 +1,4 @@
-# Face Detection
+# Face Recognition
 
 
 ###### A piece of coursework for the Computer Vision module I took at university.
@@ -10,9 +10,9 @@ The goal of this project was, using supervised machine learning, to create 4 dif
 I chose to implement the following classifiers:
 
 - Support Vector Machine using Bag of Words features
-- Support Vector Machine using History of Oriented Gradients features
+- Support Vector Machine using Histogram of Oriented Gradients features
 - Feedforward Neural Network using Bag of Words features
-- Feedforward Neural Network using History of Oriented Gradients features
+- Feedforward Neural Network using Histogram of Oriented Gradients features
 
 The classifiers were trained using images of students taking the module.
 
